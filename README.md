@@ -1,2 +1,2 @@
-# WorkOrderGenerator
-A Java program that reads in csv files containing employee data and ticket data and creates work orders accordingly.
+# Work Order Management Application
+Developed an application that processes multiple data sources, including customer tickets with varying levels of priority (Tier 1 and Tier 2) and employee certifications, to generate and assign work orders. The system matches ticket priority with appropriately certified employees, ensuring tasks are given to the qualified person. This project required a strong understanding of object-oriented programming principles in Java, including inheritance, composition, and the use of data structures from the Collections API, such as ArrayLists.
